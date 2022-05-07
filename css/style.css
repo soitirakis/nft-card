@@ -33,6 +33,7 @@ html, body {
 .nft-image {
   max-width: 100%;
   border-radius: .5rem;
+  display: block;
   /*object-fit: cover;*/
 }
 .card-title {
