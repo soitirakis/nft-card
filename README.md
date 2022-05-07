@@ -5,11 +5,12 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Overview
 
 ### Screenshot
-./img/Screenshot.png
+![Design preview for nft-card](./img/Screenshot.jpg)
 
 ### Links
 
-- [GitHub Pages] 
+- [GitHub Pages] (https://soitirakis.github.io/nft-card/)
+- [GitHub code] (https://github.com/soitirakis/nft-card) 
 
 
 ### Built with
